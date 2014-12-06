@@ -18,7 +18,7 @@ th, td {
 </style>
     <title>Demo 1 - Menucool Image Slider</title>
     <script src='http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js'></script>
-    <script src="listmovies.js" type="text/javascript"></script>
+    <script src="list.js" type="text/javascript"></script>
     <!--<link href="generic.css" rel="stylesheet" type="text/css" />-->
 </head>
 <body>
