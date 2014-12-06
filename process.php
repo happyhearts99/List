@@ -1,5 +1,5 @@
 <?
-require_once("class_search_topmovies.php");
+require_once("topmovies.php");
 $ObjProcess =new topmovie();
 
 $ObjProcess->processquickbuyitemtextinput();
